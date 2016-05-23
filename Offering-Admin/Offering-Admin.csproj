@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="api\user.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -65,10 +66,27 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\login\auth-2ddab6ef0a.css" />
+    <Content Include="Content\login\img\blur-bg.jpg" />
+    <Content Include="Content\login\img\favicon-16x16.png" />
+    <Content Include="Content\login\img\favicon-32x32.png" />
+    <Content Include="Content\login\img\favicon-96x96.png" />
+    <Content Include="Content\login\vendor-3bab2c9961.css" />
+    <Content Include="Index.html" />
+    <Content Include="login.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="app\" />
+    <Folder Include="Content\mian\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="fonts\" />
+    <Folder Include="scripts\" />
+    <Folder Include="template\" />
+    <Folder Include="view\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
