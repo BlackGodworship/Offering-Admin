@@ -1,0 +1,6 @@
+E:\shopdemo\Offering-Admin\Offering-Admin\bin\Offering-Admin.dll.config
+E:\shopdemo\Offering-Admin\Offering-Admin\bin\Offering-Admin.dll
+E:\shopdemo\Offering-Admin\Offering-Admin\bin\Offering-Admin.pdb
+E:\shopdemo\Offering-Admin\Offering-Admin\obj\Debug\Offering-Admin.csprojResolveAssemblyReference.cache
+E:\shopdemo\Offering-Admin\Offering-Admin\obj\Debug\Offering-Admin.dll
+E:\shopdemo\Offering-Admin\Offering-Admin\obj\Debug\Offering-Admin.pdb
